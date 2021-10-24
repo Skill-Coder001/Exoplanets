@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: url("a6600229a75edcf160643dcf32531cd4.png");
+	background-repeat:no-repeat;
+    background-position: center; background-size: cover;
+    
+}
+h1{
+   text-shadow: 2px 2px #2571ff; 
+   font-family:cursive;
+   font-size: 80px; 
+}
+
+p{
+    font-size: 30px;
+    font-family:monospace;
+}
